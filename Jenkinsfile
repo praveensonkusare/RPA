@@ -12,7 +12,7 @@ pipeline {
         UIPATH_ORCH_TENANT_NAME = "MyWorkBook"
         UIPATH_ORCH_FOLDER_NAME = "Shared"
     }
-ss
+
 
     stages {
 
